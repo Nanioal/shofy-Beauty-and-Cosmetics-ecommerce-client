@@ -1,5 +1,10 @@
 # Shofy - Beauty & Cosmetics – Full Stack eCommerce Web Application + Admin Panel
-
+User Interface (UI) Design: Creating the visual elements of the website, including the layout, colors, typography, and overall look and feel. This involves using HTML, CSS, and JavaScript to build responsive and interactive pages.
+Product Listings and Details: Implementing the pages that display the cosmetics products, including product images, descriptions, prices, and reviews. This also includes creating filters and search functionalities to help users find products easily.
+Shopping Cart and Checkout: Developing the shopping cart interface where users can add, remove, and view products they intend to purchase. The checkout process, including forms for user information and payment details, is also part of the front-end work.
+User Authentication: Creating the login and registration pages, as well as handling user sessions. This involves integrating with back-end services to manage user data securely.
+Admin Panel Interface: Designing the front-end of the admin panel where store managers can add, edit, and delete products, view orders, and manage other aspects of the store.
+Integration with APIs: Connecting the front-end with various APIs for functionalities like payment processing (e.g., Stripe), product data fetching, and user authentication.
 
 ![Shofy Image Banner](https://i.ibb.co/yBHL1wj/beauty-cosmetics.png)
 
